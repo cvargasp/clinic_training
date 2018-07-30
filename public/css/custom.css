@@ -1,0 +1,174 @@
+/* Your custom css code goes here */
+
+.fixed-top {
+	position: fixed;
+}
+
+.carousel-description {
+	margin-bottom: 50px;
+}
+
+.testimonial {
+	border: 1px solid rgba(0, 0, 0, 0.125);
+	border-radius: 0.5rem;
+}
+
+.testimonial img {
+	border-radius: 50%;
+    margin: 1.414em 0 .5em;
+}
+
+.testimonial p {
+	font-style: italic;
+}
+
+.circle-photo {
+	border-radius: 50%;
+	margin: 0 auto;
+  	width: 100px !important;
+
+}
+
+.testimonial-name {
+	font-size: 1.3em;
+	margin: 0 !important;
+}
+
+.personal-ceo , .personal-coor {
+	border: 2px solid #096981;
+	border-radius: 0.5rem;
+	line-height: normal;
+}
+
+.personal-ceo img , .personal-coor img{
+	max-width: 100%;
+}
+
+.personal-ceo p , .personal-coor p{
+	margin-bottom: 0;
+}
+
+.personal-ceo h4 , .personal-coor h4{
+	margin: 0;
+}
+
+.personal {
+	border: 2px solid rgba(0, 0, 0, 0.125);
+	border-radius: 0.5rem;
+	line-height: normal;
+}
+
+.personal img{
+	max-width: 100%;
+}
+
+.personal p {
+	margin-bottom: 0;
+}
+
+.personal h4 {
+	margin: 0;
+}
+
+/*@media only screen and (min-width: 650px) {
+    
+	.card-deck-personal .card-personal {
+	    max-width: calc(20% - 30px);
+	}
+}*/
+
+@media only screen and (max-width: 768px) {
+    
+	.card-deck-personal-ae .card-personal-ae {
+	    max-width: calc(50% - 30px);
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    
+	.card-deck-personal-ae .card-personal-ae {
+	    max-width: calc(33% - 30px);
+	}
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    
+	.card-deck-personal-ae .card-personal-ae {
+	    max-width: calc(25% - 30px);
+	}
+}
+
+@media only screen and (min-width: 1200px) {
+    
+	.card-deck-personal-ae .card-personal-ae {
+	    max-width: calc(20% - 30px);
+	}
+}
+
+@media only screen and (max-width: 768px) {
+    
+	.card-deck-personal-as .card-personal-as {
+	    max-width: calc(100% - 30px);
+	}
+}
+
+@media only screen and (max-width: 768px) {
+    
+	.card-deck-personal-as .card-personal-as {
+	    max-width: calc(100% - 30px);
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    
+	.card-deck-personal-as .card-personal-as {
+	    max-width: calc(33% - 30px);
+	}
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    
+	.card-deck-personal-as .card-personal-as {
+	    max-width: calc(25% - 30px);
+	}
+}
+
+@media only screen and (min-width: 1200px) {
+    
+	.card-deck-personal-as .card-personal-as {
+	    max-width: calc(20% - 30px);
+	}
+}
+
+.type-service {
+	background: #00a1ad;
+	border-radius: 5px;
+}
+
+.type-service a {
+	color: white;
+}
+
+.select-btn .active a,
+.select-btn .active a:hover {
+    background-color: #025668 !important;
+}
+
+.select-btn a:hover {
+	background-color: #018690 !important;
+}
+
+.vertical-center {
+	vertical-align: middle;
+}
+
+.efecct-zoe h4 {
+	font-size: 1.2em !important;
+}
+
+@media only screen and (max-width: 768px) {
+    
+	.center-footer{
+	    text-align: center !important;
+	}
+}
