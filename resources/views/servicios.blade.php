@@ -46,7 +46,7 @@
         			</div>
         			<div class="row">
         				<div class="col-md-4 d-flex flex-row align-items-center">
-							<img src="img/img_1.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
+							<img src="img/kinesiologia.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
 						</div>
         				<div class="col-md-8 section-heading probootstrap-animate text-justify">
           					<h4 class="mb30"> Kinesiología</h4>
@@ -59,6 +59,9 @@
         				</div>
         			</div>
         			<div class="row">
+        				<div class="col-md-4 d-flex flex-row align-items-center d-md-none">
+							<img src="img/nutricion.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
+						</div>
         				<div class="col-md-8 section-heading probootstrap-animate text-justify">
           					<h4 class="mb30"> Nutrición</h4>
           					<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -69,12 +72,12 @@
           					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         				</div>
         				<div class="col-md-4 d-flex flex-row align-items-center">
-							<img src="img/img_1.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
+							<img src="img/nutricion.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40 d-none d-md-block">
 						</div>
         			</div>
         			<div class="row">
         				<div class="col-md-4 d-flex flex-row align-items-center">
-							<img src="img/img_1.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
+							<img src="img/psicologia.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
 						</div>
         				<div class="col-md-8 section-heading probootstrap-animate text-justify">
           					<h4 class="mb30"> Psicología</h4>
@@ -87,6 +90,9 @@
         				</div>
         			</div>
         			<div class="row">
+        				<div class="col-md-4 d-flex flex-row align-items-center d-md-none">
+							<img src="img/entrenamientos-fitness.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
+						</div>
         				<div class="col-md-8 section-heading probootstrap-animate text-justify">
           					<h4 class="mb30"> Entrenamientos fitness</h4>
           					<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -97,12 +103,12 @@
           					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         				</div>
         				<div class="col-md-4 d-flex flex-row align-items-center">
-							<img src="img/img_1.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
+							<img src="img/entrenamientos-fitness.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40 d-none d-md-block">
 						</div>
         			</div>
         			<div class="row">
         				<div class="col-md-4 d-flex flex-row align-items-center">
-							<img src="img/img_1.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
+							<img src="img/entrenamientos-deportivos.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
 						</div>
         				<div class="col-md-8 section-heading probootstrap-animate text-justify">
           					<h4 class="mb30"> Entrenamientos deportivos</h4>
@@ -129,7 +135,7 @@
         			</div>
 					<div class="row">
 						<div class="col-md-4 d-flex flex-row align-items-center">
-							<img src="img/img_1.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
+							<img src="img/kinesiologia-deportiva.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
 						</div>
         				<div class="col-md-8 section-heading probootstrap-animate text-justify">
           					<h4 class="mb30"> Kinesiología deportiva</h4>
@@ -142,6 +148,9 @@
         				</div>
         			</div>
         			<div class="row">
+        				<div class="col-md-4 d-flex flex-row align-items-center d-md-none">
+							<img src="img/nutricion-deportiva.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
+						</div>
         				<div class="col-md-8 section-heading probootstrap-animate text-justify">
           					<h4 class="mb30"> Nutrición deportiva </h4>
           					<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -152,12 +161,12 @@
           					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         				</div>
         				<div class="col-md-4 d-flex flex-row align-items-center">
-							<img src="img/img_1.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
+							<img src="img/nutricion-deportiva.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40 d-none d-md-block">
 						</div>
         			</div>
         			<div class="row">
         				<div class="col-md-4 d-flex flex-row align-items-center">
-							<img src="img/img_1.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
+							<img src="img/psicologia-deportiva.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
 						</div>
         				<div class="col-md-8 section-heading probootstrap-animate text-justify">
           					<h4 class="mb30"> Psicología deportiva</h4>
@@ -242,52 +251,52 @@
         			</div> -->
         			<div class="row">
       					<div class="col-md-12">
-      					<div class="card-deck card-deck-personal-as mb30 justify-content-md-center text-center">
-						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/img_1.jpg" alt="Card image cap">
+      					<div class="card-deck card-deck-sport mb30 justify-content-md-center text-center">
+						  	<div class="card card-sport personal probootstrap-animate">
+						    	<img class="card-img-top" src="img/boxeo.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Boxeo </h4>
 						    	</div>
 						  	</div>
-						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/img_1.jpg" alt="Card image cap">
+						  	<div class="card card-sport personal probootstrap-animate">
+						    	<img class="card-img-top" src="img/calistenia.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Calistenia </h4>
 						    	</div>
 						  	</div>
 						  	<div class="w-100 p-2 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>
-						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/img_1.jpg" alt="Card image cap">
+						  	<div class="card card-sport personal probootstrap-animate">
+						    	<img class="card-img-top" src="img/trx.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Cuerda suspensión</h4>
 						    	</div>
 						  	</div>
 						  	<div class="w-100 p-2 d-none d-md-block d-lg-none"><!-- wrap every 3 on md--></div>
-						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/img_1.jpg" alt="Card image cap">
+						  	<div class="card card-sport personal probootstrap-animate">
+						    	<img class="card-img-top" src="img/danza.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Danza </h4>
 						    	</div>
 						  	</div>
 						  	<div class="w-100 p-2 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>
 						  	<div class="w-100 p-2 d-none d-lg-block d-xl-none"><!-- wrap every 4 on lg--></div>
-						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/img_1.jpg" alt="Card image cap">
+						  	<div class="card card-sport personal probootstrap-animate">
+						    	<img class="card-img-top" src="img/muay-thai.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Muay Thai </h4>
 						    	</div>
 						  	</div>
 						  	<div class="w-100 p-2 d-none d-xl-block"><!-- wrap every 5 on xl--></div>
-						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/img_1.jpg" alt="Card image cap">
+						  	<div class="card card-sport personal probootstrap-animate">
+						    	<img class="card-img-top" src="img/pilates.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Pilates </h4>
 						    	</div>
 						  	</div>
 						  	<div class="w-100 p-2 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>
 						  	<div class="w-100 p-2 d-none d-md-block d-lg-none"><!-- wrap every 3 on md--></div>
-						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/img_1.jpg" alt="Card image cap">
+						  	<div class="card card-sport personal probootstrap-animate">
+						    	<img class="card-img-top" src="img/yoga.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Yoga </h4>
 						    	</div>
@@ -310,37 +319,43 @@
         			</div>
         			<div class="row">
       					<div class="col-md-12">
-      					<div class="card-deck card-deck-personal-as mb30 justify-content-md-center text-center">
-						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/img_1.jpg" alt="Card image cap">
+      					<div class="card-deck card-deck-sport mb30 justify-content-md-center text-center">
+						  	<div class="card card-sport personal probootstrap-animate">
+						    	<img class="card-img-top" src="img/futbol.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Fútbol </h4>
 						    	</div>
 						  	</div>
-						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/img_1.jpg" alt="Card image cap">
+						  	<div class="card card-sport personal probootstrap-animate">
+						    	<img class="card-img-top" src="img/hockey.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Hockey </h4>
 						    	</div>
 						  	</div>
 						  	<div class="w-100 p-2 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>
-						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/img_1.jpg" alt="Card image cap">
+						  	<div class="card card-sport personal probootstrap-animate">
+						    	<img class="card-img-top" src="img/natacion.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Natación</h4>
 						    	</div>
 						  	</div>
 						  	<div class="w-100 p-2 d-none d-md-block d-lg-none"><!-- wrap every 3 on md--></div>
-						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/img_1.jpg" alt="Card image cap">
+						  	<div class="card card-sport personal probootstrap-animate">
+						    	<img class="card-img-top" src="img/patinaje.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Patinaje </h4>
 						    	</div>
 						  	</div>
 						  	<div class="w-100 p-2 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>
 						  	<div class="w-100 p-2 d-none d-lg-block d-xl-none"><!-- wrap every 4 on lg--></div>
-						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/img_1.jpg" alt="Card image cap">
+						  	<div class="card card-sport personal probootstrap-animate">
+						    	<img class="card-img-top" src="img/tenis.jpg" alt="Card image cap">
+						    	<div class="card-body">
+						      		<h4 class="probootstrap-card-heading mb0"> Tenis </h4>
+						    	</div>
+						  	</div>
+						  	<div class="card card-sport personal probootstrap-animate">
+						    	<img class="card-img-top" src="img/otros.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Otros </h4>
 						    	</div>
