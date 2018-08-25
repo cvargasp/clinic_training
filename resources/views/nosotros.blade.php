@@ -26,7 +26,7 @@
 		          	</div>
 		          	<div class="col-md-6 mb30 probootstrap-animate">
 			            <h4 class="mb30">Nuestra Visión</h4>
-			            <p>Como la primera empresa de entrenamiento y salud deportiva a domicilio, nuestros esfuerzos se orientan a estar en la vanguardia, con el objetivo de entregar un servicio integral, profesional y de calidad, trabjando a diario para satisfacer todas las necesidades que tienen y que podrían tener nuestros alumnos.</p>
+			            <p>Como la primera empresa de entrenamiento y salud deportiva a domicilio, nuestros esfuerzos se orientan a estar en la vanguardia, con el objetivo de entregar un servicio integral, profesional y de calidad, trabajando a diario para satisfacer todas las necesidades que tienen y podrían tener nuestros alumnos.</p>
 			       	</div>
 		        </div>
 		        <div class="row probootstrap-gutter60">
@@ -50,12 +50,8 @@
 		        	</div>
 			        <div class="col-md-6 mb30 probootstrap-animate">
 		        		<h4 class="mb30"> Nuestra Historia </h4>
-		        		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-		        		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-		        		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-		        		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-		        		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-		        		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		        		<p>Sus dueños son un matrimonio ligado al deporte desde niños, luego de pasar por varias dificultades por enfermedad, que siempre vienen de la mano con las económicas y de ser padres de tres niños, Denise profesora de Educación Física y con varios cursos en entrenamientos deportivos, decide dejar los colegios y comenzar a realizar clases a domicilio, en ese entonces con el nombre de Mujeres Runners. Eduardo, Comunicador AudioVisual, productor de TV, ante la insistencia de Denise de asociarse y emprender juntos, renuncia a la televisión y comienza con Hombre Runners. Al cabo de unos meses, conociendo las reales necesidades de sus alumnos, año 2012,  unifican sus nombre como Crosstraining Chile, buscando entregar un servicio multidisciplinario, deciden sumar al equipo profesores de distintas disciplinas.</p>
+		        		<p>Dada la buena recepción de sus alumnos y siempre con las ansias de innovar y mejorar el servicio, abren el Área de Salud, incorporando kinesiólogos, Nutricionistas y psicólogos, lo que los obliga a sufrir un segundo cambio de nombre, ahora como Clinictraining, siendo la primera empresa de entrenamientos y salud deportiva a domicilio.</p>
 			        </div>
 		        </div>
 		        <div class="row">
@@ -221,8 +217,8 @@
     		<div class="container">
     			<div class="row probootstrap-animate probootstrap-animate">
 		          	<div class="col-md-12 probootstrap-relative">
-		            	<h2 class="probootstrap-heading mt0 mb50" style="font-size: 2.1em; font-weight: 400;">Área Entrenamiento</h2>
-		            	<ul class="probootstrap-owl-navigation absolute right hidden-xs">
+		            	<h2 class="probootstrap-heading mt0" style="font-size: 2.1em; font-weight: 400;">Área Entrenamiento</h2>
+		            	<ul class="probootstrap-owl-navigation absolute right">
 		              		<li><a href="#" class="probootstrap-owl-prev"><i class="icon-chevron-left"></i></a></li>
 		              		<li><a href="#" class="probootstrap-owl-next"><i class="icon-chevron-right"></i></a></li>
 		            	</ul>
@@ -319,8 +315,8 @@
     		<div class="container">
     			<div class="row probootstrap-animate probootstrap-animate">
 		          	<div class="col-md-12 probootstrap-relative">
-		            	<h2 class="probootstrap-heading mt0 mb50" style="font-size: 2.1em; font-weight: 400;">Área salud</h2>
-		            	<ul class="probootstrap-owl-navigation absolute right hidden-xs">
+		            	<h2 class="probootstrap-heading mt0" style="font-size: 2.1em; font-weight: 400;">Área salud</h2>
+		            	<ul class="probootstrap-owl-navigation absolute right">
 		              		<li><a href="#" class="probootstrap-owl-prev2"><i class="icon-chevron-left"></i></a></li>
 		              		<li><a href="#" class="probootstrap-owl-next2"><i class="icon-chevron-right"></i></a></li>
 		            	</ul>

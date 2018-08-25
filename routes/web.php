@@ -27,6 +27,10 @@ Route::get('/clientes', function () {
     return view('clientes');
 })->name('clientes');
 
+Route::get('/empresas', function () {
+    return view('empresas');
+})->name('empresas');
+
 Route::get('/contacto', function () {
     return view('contacto');
 })->name('contacto');

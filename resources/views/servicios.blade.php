@@ -139,12 +139,19 @@
 						</div>
         				<div class="col-md-8 section-heading probootstrap-animate text-justify">
           					<h4 class="mb30"> Kinesiología deportiva</h4>
-          					<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          					<p>Equipo multidisciplinario enfocado en el bienestar de nuestros alumnos.
+							Nos preocupamos de forma personalizada e integral de la prevención y tratamiento de lesiones para lograr un reintegro deportivo óptimo y así mejorar la calidad y estilo de vida de nuestros deportistas.</p> 
+
+							<p>Servicios Kinesiológicos</p>
+							<ol>
+								<li>Evaluación kinésica</li>
+								<li>Reeducación postural</li>
+								<li>Fisioterapia</li>
+								<li>Aplicación Ktape</li>
+								<li>Masoterapia descontracturante</li>
+								<li>Biosteopraxia</li>
+								<li>Fitswing</li>
+							</ol>
         				</div>
         			</div>
         			<div class="row">
@@ -153,12 +160,12 @@
 						</div>
         				<div class="col-md-8 section-heading probootstrap-animate text-justify">
           					<h4 class="mb30"> Nutrición deportiva </h4>
-          					<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          					<p>Una buena nutrición es una de las CLAVES PARA EL ÉXITO tanto deportivo, como para llevar un estilo de vida saludable, sentirnos bien, con energía, prevenir enfermedades, etc.</p>
+							<p>Los nutrientes que obtenemos de los alimentos nos proveen de energía, nos ayudan a regular procesos metabólicos, estructurales, como nos sentimos anímicamente, nos influye en el rendimiento laboral, en la energía que tenemos para hacer nuestras actividades, en cómo está tu composición corporal, etc.</p>
+							<p>Una mala nutrición nos podría llevar a cualquier deficiencia nutricional y provocar una disminución tanto en la capacidad física como mental. Por ejemplo: La falta de hierro disminuye la capacidad del músculo para consumir oxígeno y así producir energía; O No consumir carbohidratos previo a una competencia influye directamente en el rendimiento que tengas; y así muchos ejemplos más.</p>
+							<p>Es por eso que nuestra orientación nutricional va enfocada a lograr un estilo de vida saludable a través de la alimentación, evitando una mala nutrición para obtener lo mejor de ti.</p>
+
+							<p class="font-weight-bold">POR ESO TE INVITAMOS A TENGAS UNA COMPLETA ORIENTACIÓN NUTRICIONAL CON NOSOTROS Y ASÍ PUEDAS SACAR TU MÁXIMO POTENCIAL A TRAVÉS DEL DEPORTE Y UNA BUENA ALIMENTACION!</p>
         				</div>
         				<div class="col-md-4 d-flex flex-row align-items-center">
 							<img src="img/nutricion-deportiva.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40 d-none d-md-block">
@@ -169,7 +176,7 @@
 							<img src="img/psicologia-deportiva.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
 						</div>
         				<div class="col-md-8 section-heading probootstrap-animate text-justify">
-          					<h4 class="mb30"> Psicología deportiva</h4>
+          					<h4 class="mb30"> Psicología y coaching deportivo</h4>
           					<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
           					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
           					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

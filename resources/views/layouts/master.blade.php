@@ -44,7 +44,8 @@
             <li class="{{ Request::is('/') ? 'active' : '' }}"><a href="{{ route('inicio')}}">Inicio</a></li>
             <li class="{{ Request::is('nosotros') ? 'active' : '' }}"><a href="{{ route('nosotros')}}">Nosotros</a></li>
             <li class="{{ Request::is('servicios') ? 'active' : '' }}"><a href="{{ route('servicios')}}">Servicios</a></li>
-            <li class="{{ Request::is('clientes') ? 'active' : '' }}"><a href="{{ route('clientes')}}">Clientes</a></li>
+            <li class="{{ Request::is('clientes') ? 'active' : '' }}"><a href="{{ route('clientes')}}">Alumnos</a></li>
+            <li class="{{ Request::is('clientes') ? 'active' : '' }}"><a href="{{ route('empresas')}}">Empresas</a></li>
             <li class="{{ Request::is('contacto') ? 'active' : '' }}"><a href="{{ route('contacto')}}">Contacto</a></li>
           </ul>
           <ul class="probootstrap-header-social hidden-xs">
@@ -77,7 +78,8 @@
               <li><a href="{{ route('inicio')}}">Inicio</a></li>
               <li><a href="{{ route('nosotros')}}">Nosotros</a></li>
               <li><a href="{{ route('servicios')}}">Servicios</a></li>
-              <li><a href="{{ route('clientes')}}">Clientes</a></li>
+              <li><a href="{{ route('clientes')}}">Alumnos</a></li>
+              <li><a href="{{ route('empresas')}}">Empresas</a></li>
               <li><a href="{{ route('contacto')}}">Contacto</a></li>
             </ul>
           </div>
