@@ -68,14 +68,14 @@
       				<div class="col-md-12">
       					<div class="card-deck card-deck-personal-ae mb30 justify-content-md-center text-center">
 						  	<div class="card card-personal personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/3.jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/renzo-celle.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading">Renzo Celle</h4>
 						            <p><small> Profesor de Ed. Física<br>Entrenamiento Funcional</small></p> 
 						    	</div>
 						  	</div>
 							<div class="card card-personal-ae personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/12.jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/maria-jose-leiva.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading"> María José Leiva </h4>
 						            <p><small> Profesora de Ed. Física<br>Entrenamiento Funcional </small></p>  
@@ -83,7 +83,7 @@
 						  	</div>
 						  	<div class="w-100 p-2 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>
 						  	<div class="card card-personal-ae personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/7.jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/javier-mestre.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading0"> Javier Mestre </h4>
 						            <p><small> Profesor de Ed. Física<br>Entrenamiento Funcional<br> Instructor de Box </small></p>  
@@ -92,7 +92,7 @@
 						  	<div class="w-100 p-2 d-none d-md-block d-lg-none"><!-- wrap every 3 on md--></div>						  	
 							<!-- <div class="w-100 p-2"></div> -->
 						  	<div class="card card-personal-ae personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/2.jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/camila-flores.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading"> Camila Flores </h4>
 						            <p><small> Instructora de Pilates </small></p>
@@ -101,7 +101,7 @@
 						  	<div class="w-100 p-2 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>
 						  	<div class="w-100 p-2 d-none d-lg-block d-xl-none"><!-- wrap every 4 on lg--></div>
 						  	<div class="card card-personal-ae personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/esteban.jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/esteban-fuentes.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading">Esteban Fuentes</h4>
 						            <p><small> Instructor Muay Thai</small></p>  
@@ -109,7 +109,7 @@
 						  	</div>
 						  	<div class="w-100 p-2 d-none d-xl-block"><!-- wrap every 5 on xl--></div>
 						  	<div class="card card-personal-ae personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/8.jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/consuelo-vendres.jpg" alt="Card image cap">
 						   	 	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading"> Consuelo Vendres </h4>
 				              		<p><small> Instructora de Pilates </small></p> 
@@ -119,14 +119,14 @@
 						  	<div class="w-100 p-2 d-none d-md-block d-lg-none"><!-- wrap every 3 on md--></div>
 							<!-- <div class="w-100 p-2"></div> -->
 						  	<div class="card card-personal-ae personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/1.jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/belen-gnocchi.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading"> Belén Gnocchi </h4>
 				              		<p><small> Instructora de Yoga </small></p>  
 						    	</div>
 						  	</div>
 						  	<div class="card card-personal-ae personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/3.jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/valentina-ortiz.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading"> Valentina Ortiz </h4>
 				              		<p><small> Instructora de Yoga </small></p>  
@@ -135,7 +135,7 @@
 						  	<div class="w-100 p-2 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>
 						  	<div class="w-100 p-2 d-none d-lg-block d-xl-none"><!-- wrap every 4 on lg--></div>
 						  	<div class="card card-personal-ae personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/3.jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/catalina-barros.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading"> Catalina Barros </h4>
 				              		<p><small> Instructora de Yoga </small></p>  
@@ -153,30 +153,30 @@
       				<div class="col-md-12">
       					<div class="card-deck card-deck-personal-as mb30 justify-content-md-center text-center">
 						  	<div class="card card-personal-as personal-coor probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/11.jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/fernanda-oreamuno.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Fernanda Oreamuno </h4>
 						            <p><small> Coordinadora Área Salud </small></p> 
 						    	</div>
 						  	</div>
 						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/10.jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/luis-cortez.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Luis Cortéz </h4>
 						            <p><small> Nutricionista </small></p> 
 						    	</div>
 						  	</div>
-						  	<div class="w-100 p-2 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>
+						  	<div class="w-100 p-2 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>						  	
 						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/3.jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/maria-jesus-lama.jpg" alt="Card image cap">
 						    	<div class="card-body">
-						      		<h4 class="probootstrap-card-heading mb0"> Javiera Donoso </h4>
-						            <p><small> Psicóloga </small></p> 
+						      		<h4 class="probootstrap-card-heading mb0"> María Jesús Lama</h4>
+						            <p><small> Kinesióloga </small></p> 
 						    	</div>
 						  	</div>
 						  	<div class="w-100 p-2 d-none d-md-block d-lg-none"><!-- wrap every 3 on md--></div>
 						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/1(2).jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/belen-gnocchi(2).jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Belén Gnocchi </h4>
 						            <p><small> Kinesióloga </small></p> 
@@ -185,7 +185,7 @@
 						  	<div class="w-100 p-2 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>
 						  	<div class="w-100 p-2 d-none d-lg-block d-xl-none"><!-- wrap every 4 on lg--></div>
 						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/4.jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/valentina-roos.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Valentina Roos </h4>
 						            <p><small> Kinesióloga </small></p> 
@@ -193,21 +193,14 @@
 						  	</div>
 						  	<div class="w-100 p-2 d-none d-xl-block"><!-- wrap every 5 on xl--></div>
 						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/6.jpg" alt="Card image cap">
+						    	<img class="card-img-top" src="img/personal/felipe-kossack.jpg" alt="Card image cap">
 						    	<div class="card-body">
 						      		<h4 class="probootstrap-card-heading mb0"> Felipe Kossack </h4>
 						            <p><small> Kinesiólogo </small></p> 
 						    	</div>
 						  	</div>
 						  	<div class="w-100 p-2 d-none d-sm-block d-md-none"><!-- wrap every 2 on sm--></div>
-						  	<div class="w-100 p-2 d-none d-md-block d-lg-none"><!-- wrap every 3 on md--></div>
-						  	<div class="card card-personal-as personal probootstrap-animate">
-						    	<img class="card-img-top" src="img/personal/9.jpg" alt="Card image cap">
-						    	<div class="card-body">
-						      		<h4 class="probootstrap-card-heading mb0"> María Jesús Lama</h4>
-						            <p><small> Kinesióloga </small></p> 
-						    	</div>
-						  	</div>						  	
+						  	<div class="w-100 p-2 d-none d-md-block d-lg-none"><!-- wrap every 3 on md--></div>						  	
 						</div>
       				</div>
       			</div>
@@ -229,7 +222,7 @@
 		            	<div class="owl-carousel owl-carousel-carousel text-center">
 		              		<div class="item">
 				               	<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/3.jpg" alt="Card image cap">
+							    	<img class="card-img-top" src="img/personal/renzo-celle.jpg" alt="Card image cap">
 							    	<div class="card-body">
 							      		<h4 class="probootstrap-card-heading">Renzo Celle</h4>
 							            <p><small> Profesor de Ed. Física<br>Entrenamiento Funcional</small></p> 
@@ -238,7 +231,7 @@
 			              	</div>
 			          		<div class="item">
 		               			<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/12.jpg" alt="Card image cap">
+							    	<img class="card-img-top" src="img/personal/maria-jose-leiva.jpg" alt="Card image cap">
 							    	<div class="card-body">
 							      		<h4 class="probootstrap-card-heading"> María José Leiva </h4>
 							            <p><small> Profesora de Ed. Física<br>Entrenamiento Funcional </small></p>  
@@ -247,7 +240,7 @@
 						  	</div>         
               				<div class="item">
                 				<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/7.jpg" alt="Card image cap">
+							    	<img class="card-img-top" src="img/personal/javier-mestre.jpg" alt="Card image cap">
 							    	<div class="card-body">
 							      		<h4 class="probootstrap-card-heading0"> Javier Mestre </h4>
 							            <p><small> Profesor de Ed. Física<br>Entrenamiento Funcional<br> Instructor de Box </small></p>  
@@ -256,7 +249,7 @@
               				</div>
               				<div class="item">
               					<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/2.jpg" alt="Card image cap">
+							    	<img class="card-img-top" src="img/personal/camila-flores.jpg" alt="Card image cap">
 							    	<div class="card-body">
 							      		<h4 class="probootstrap-card-heading"> Camila Flores </h4>
 							            <p><small> Instructora de Pilates </small></p>
@@ -265,7 +258,7 @@
               				</div>
               				<div class="item">
               					<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/esteban.jpg" alt="Card image cap">
+							    	<img class="card-img-top" src="img/personal/esteban-fuentes.jpg" alt="Card image cap">
 							    	<div class="card-body">
 							      		<h4 class="probootstrap-card-heading">Esteban Fuentes</h4>
 							            <p><small> Instructor Muay Thai</small></p>  
@@ -274,7 +267,7 @@
               				</div>
               				<div class="item">
               					<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/8.jpg" alt="Card image cap">
+							    	<img class="card-img-top" src="img/personal/consuelo-vendres.jpg" alt="Card image cap">
 							   	 	<div class="card-body">
 							      		<h4 class="probootstrap-card-heading"> Consuelo Vendres </h4>
 					              		<p><small> Instructora de Pilates </small></p> 
@@ -283,7 +276,7 @@
               				</div>
               				<div class="item">
               				  	<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/9.jpg" alt="Card image cap">
+							    	<img class="card-img-top" src="img/personal/maria-jesus-lama.jpg" alt="Card image cap">
 							    	<div class="card-body">
 							      		<h4 class="probootstrap-card-heading mb0"> María Jesús Lama</h4>
 							            <p><small> Kinesióloga </small></p> 
@@ -292,7 +285,7 @@
               				</div>
               				<div class="item">
               					<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/3.jpg" alt="Card image cap">
+							    	<img class="card-img-top" src="img/personal/valentina-ortiz.jpg" alt="Card image cap">
 							    	<div class="card-body">
 							      		<h4 class="probootstrap-card-heading"> Valentina Ortiz </h4>
 					              		<p><small> Instructora de Yoga </small></p>  
@@ -301,7 +294,7 @@
 						  	</div>
 						  	<div class="item">
 						  		<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/3.jpg" alt="Card image cap">
+							    	<img class="card-img-top" src="img/personal/catalina-barros.jpg" alt="Card image cap">
 							    	<div class="card-body">
 							      		<h4 class="probootstrap-card-heading"> Catalina Barros </h4>
 					              		<p><small> Instructora de Yoga </small></p>  
@@ -327,7 +320,7 @@
 		            	<div class="owl-carousel owl-carousel-carousel2 text-center">
 		              		<div class="item">
 				               	<div class="card card-personal personal-ceo probootstrap-animate">
-						    		<img class="card-img-top" src="img/personal/11.jpg" alt="Card image cap">
+						    		<img class="card-img-top" src="img/personal/fernanda-oreamuno.jpg" alt="Card image cap">
 						    		<div class="card-body">
 						      			<h4 class="probootstrap-card-heading mb0"> Fernanda Oreamuno </h4>
 						            	<p><small> Coordinadora Área Salud </small></p> 
@@ -336,7 +329,7 @@
 			              	</div>
 			          		<div class="item">
 		               			<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/10.jpg" alt="Card image cap">
+							    	<img class="card-img-top" src="img/personal/luis-cortez.jpg" alt="Card image cap">
 							    	<div class="card-body">
 							      		<h4 class="probootstrap-card-heading mb0"> Luis Cortéz </h4>
 							            <p><small> Nutricionista </small></p> 
@@ -344,17 +337,8 @@
 							  	</div>
 						  	</div>         
               				<div class="item">
-                				<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/3.jpg" alt="Card image cap">
-							    	<div class="card-body">
-							      		<h4 class="probootstrap-card-heading mb0"> Javiera Donoso </h4>
-							            <p><small> Psicóloga </small></p> 
-							    	</div>
-						  		</div>
-              				</div>
-              				<div class="item">
               					<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/1(2).jpg" alt="Card image cap">
+							    	<img class="card-img-top" src="img/personal/belen-gnocchi(2).jpg" alt="Card image cap">
 							    	<div class="card-body">
 							      		<h4 class="probootstrap-card-heading mb0"> Belén Gnocchi </h4>
 							            <p><small> Kinesióloga </small></p> 
@@ -363,7 +347,7 @@
               				</div>
               				<div class="item">
               					<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/4.jpg" alt="Card image cap">
+							    	<img class="card-img-top" src="img/personal/valentina-roos.jpg" alt="Card image cap">
 							    	<div class="card-body">
 							      		<h4 class="probootstrap-card-heading mb0"> Valentina Roos </h4>
 							            <p><small> Kinesióloga </small></p> 
@@ -372,7 +356,7 @@
               				</div>
               				<div class="item">
               					<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/6.jpg" alt="Card image cap">
+							    	<img class="card-img-top" src="img/personal/felipe-kossack.jpg" alt="Card image cap">
 							    	<div class="card-body">
 							      		<h4 class="probootstrap-card-heading mb0"> Felipe Kossack </h4>
 							            <p><small> Kinesiólogo </small></p> 
@@ -381,7 +365,7 @@
               				</div>
               				<div class="item">              					
 							  	<div class="card card-personal personal">
-							    	<img class="card-img-top" src="img/personal/9.jpg" alt="Card image cap">
+							    	<img class="card-img-top" src="img/personal/maria-jesus-lama.jpg" alt="Card image cap">
 							    	<div class="card-body">
 							      		<h4 class="probootstrap-card-heading mb0"> María Jesús Lama</h4>
 							            <p><small> Kinesióloga </small></p> 
