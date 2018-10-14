@@ -93,7 +93,7 @@
       		<div class="container">
         		<div class="row probootstrap-animate">
 		          	<div class="col-md-12 probootstrap-relative">
-		            	<h2 class="probootstrap-heading mt0" style="font-size: 2.1em; font-weight: 400;">Programas de entrenamiento y salud</h2>
+		            	<h2 class="probootstrap-heading mt0" style="font-size: 2.1em; font-weight: 400;">Planes de Entrenamiento Integral</h2>
 		            	<ul class="probootstrap-owl-navigation absolute right">
 		              		<li><a href="#" class="probootstrap-owl-prev"><i class="icon-chevron-left"></i></a></li>
 		              		<li><a href="#" class="probootstrap-owl-next"><i class="icon-chevron-right"></i></a></li>
@@ -141,17 +141,18 @@
         		</div>
         		<div class="row carousel-description probootstrap-animate">
         			<div class="col-md-12 probootstrap-relative">
-        				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	        			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	        			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-	        			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-	        			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-	        			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        				<p>Personal individual y grupal a domicilio, comenzamos con una primera evaluación donde conocemos al alumno, 
+						sus objetivos, su historial físico y otros, Se realiza una medición corporal y un test físico, 
+						Luego se realiza una segunda evaluación Kinesica postural, con toda esta información se desarrolla el programa de
+						entrenamiento acorde a sus necesidades, mezclando distintas disciplinas, desde entrenamiento funcional, yoga, Pilates, 
+						Box y otros. Segundo mes se realiza una evaluación nutricional y un Coaching deportivo, completando este servicio 
+						integral a domicilio. A partir del tercer mes, se realiza una evaluación mensual por área, de esa manera el alumno puede
+						tener conocimientos de su evolución. </p>
 	        		</div>
         		</div>
         		<div class="row probootstrap-animate probootstrap-animate">
 		          	<div class="col-md-12 probootstrap-relative">
-		            	<h2 class="probootstrap-heading mt0" style="font-size: 2.1em; font-weight: 400;">Área salud</h2>
+		            	<h2 class="probootstrap-heading mt0" style="font-size: 2.1em; font-weight: 400;">Área de salud</h2>
 		            	<ul class="probootstrap-owl-navigation absolute right">
 		              		<li><a href="#" class="probootstrap-owl-prev2"><i class="icon-chevron-left"></i></a></li>
 		              		<li><a href="#" class="probootstrap-owl-next2"><i class="icon-chevron-right"></i></a></li>
@@ -187,17 +188,17 @@
         		</div>
         		<div class="row carousel-description probootstrap-animate">
         			<div class="col-md-12 probootstrap-relative">
-        				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	        			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	        			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-	        			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-	        			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-	        			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        				<p>El <b>Área de Salud</b> nace con el objetivo de cubrir nuevas necesidades de los alumnos, kinesiologia, nutrición y psicólogia deportiva. 
+						Hoy podemos y queremos entregar estos servicios, a todos quienes lo necesiten. 
+						<b>Kinesiología:</b> Sesiones de rehabilitación, masajes descontracturantes, masajes  de relajación y linfáticos. 
+						<b>Nutrición:</b> Evaluaciones Nutricionales, Pautas Alimenticias y Planes de Nutricionales.  
+						<b>Psicológica o Coaching deportivo:</b> Evaluaciones, Sesiones Psicológicas y Coaching individuales y grupales. También empresa. 
+						Todo en la comodidad de tu casa y completamente personalizado. </p>
 	        		</div>
         		</div>
         		<div class="row probootstrap-animate">
 		          	<div class="col-md-12 probootstrap-relative">
-		            	<h2 class="probootstrap-heading mt0" style="font-size: 2.1em; font-weight: 400;">Entrenamientos fitness</h2>
+		            	<h2 class="probootstrap-heading mt0" style="font-size: 2.1em; font-weight: 400;">Entrenamiento fitness</h2>
 		            	<ul class="probootstrap-owl-navigation absolute right">
 		              		<li><a href="#" class="probootstrap-owl-prev3"><i class="icon-chevron-left"></i></a></li>
 		              		<li><a href="#" class="probootstrap-owl-next3"><i class="icon-chevron-right"></i></a></li>
@@ -260,12 +261,8 @@
         		</div>
         		<div class="row carousel-description probootstrap-animate">
         			<div class="col-md-12 probootstrap-relative">
-        				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	        			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	        			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-	        			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-	        			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-	        			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        				<p>Si quieres practicar sólo una de nuestras disciplinas, también puedes hacerlo.Estas son: 
+        				Entrenamiento Funcional, pesas, cuerdas de suspensión, yoga, Pilates, Box, Muay Thai y cardiodance.</p>
 	        		</div>
         		</div>
         		<div class="row probootstrap-animate">
@@ -321,12 +318,9 @@
         		</div>
         		<div class="row carousel-description probootstrap-animate">
         			<div class="col-md-12 probootstrap-relative">
-        				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	        			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	        			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-	        			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-	        			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-	        			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        				<p>Entrenamientos para deportistas que deseen mejorar su técnica o cualquier área de desarrollo. 
+						Deportes: Fútbol, tenis, basquetbol, voleibol, hockey, etc. <b>Además realizamos clases de natación 
+						para niños de 8 meses a 17 años.</b></p>
 	        		</div>
         		</div>
       		</div>

@@ -47,11 +47,23 @@
 						    	</div>
 						  	</div>
 		            	</div>
+		            	<div class="probootstrap-animate">
+		            		<p>Los Valores CT se basan en:</p>
+		            		<ul>
+		            			<li>Excelencia: Entregar siempre un servicio de calidad, diferenciador, vanguardista, que evoluciona con las necesidades de nuestros alumnos.</li>
+								<li>Responsabilidad:Cumplir al 100% con nuestras citas, con el máximo de puntualidad, y siendo responsables con el medio ambiente donde realizamos nuestras clases. </li>
+								<li>Escucha: No sólo somos guías del deporte y de la salud para nuestros alumnos y pacientes, también nos transformamos en sus confidentes y sabiendo lo que sienten podemos hacer mejor nuestro trabajo. </li>
+								<li>Pasión: Todo trabajo con pasión es el de mejor calidad y eso se traspasa a los alumnos, para lograr sentir pasión por el deporte y la vida sana. </li>
+								<li>Lealtad: Para CT la confianza y lealtad son puntos básicos en una relación tanto con nuestro equipo, como con nuestros alumnos y pacientes.</li>
+		            		</ul>
+		            	</div>
 		        	</div>
 			        <div class="col-md-6 mb30 probootstrap-animate">
 		        		<h4 class="mb30"> Nuestra Historia </h4>
-		        		<p>Sus dueños son un matrimonio ligado al deporte desde niños, luego de pasar por varias dificultades por enfermedad, que siempre vienen de la mano con las económicas y de ser padres de tres niños, Denise profesora de Educación Física y con varios cursos en entrenamientos deportivos, decide dejar los colegios y comenzar a realizar clases a domicilio, en ese entonces con el nombre de Mujeres Runners. Eduardo, Comunicador AudioVisual, productor de TV, ante la insistencia de Denise de asociarse y emprender juntos, renuncia a la televisión y comienza con Hombre Runners. Al cabo de unos meses, conociendo las reales necesidades de sus alumnos, año 2012,  unifican sus nombre como Crosstraining Chile, buscando entregar un servicio multidisciplinario, deciden sumar al equipo profesores de distintas disciplinas.</p>
-		        		<p>Dada la buena recepción de sus alumnos y siempre con las ansias de innovar y mejorar el servicio, abren el Área de Salud, incorporando kinesiólogos, Nutricionistas y psicólogos, lo que los obliga a sufrir un segundo cambio de nombre, ahora como Clinictraining, siendo la primera empresa de entrenamientos y salud deportiva a domicilio.</p>
+		        		<p>Sus dueños son un matrimonio, que desde niños han estado ligados al deporte. Denise, atleta destacada desde niña, profesora de Educación Física y con varios cursos en entrenamientos deportivos. Eduardo, aficionado y autodidacta del deporte de toda la vida, Comunicador AudioVisual, productor de TV. Luego de pasar varias dificultades por enfermedad, que siempre vienen de la mano con las económicas, siendo padres de tres niños, Denise decide dejar de hacer clases en colegios y comenzar con algo propio, fundando <b>"Mujeres Runners"</b>, servicios de entrenamientos a domicilio a mujeres, con el pasar de los meses y viendo que la empresa crecía pero con la limitación de entregar sólo servicio a mujeres , deciden como pareja dar el salto y comenzar a dar el servicio para Hombres. Eduardo deja la televisión y funda <b>"Hombres Runners"</b>.</p>
+						<p>Al cabo de unos meses, conociendo más en detalle las necesidades de sus alumnos, año 2012,  unifican sus nombres como <b>"Crosstraining Chile"</b>. Buscando entregar un servicio multidisciplinario, deciden sumar al equipo profesores de distintas disciplinas. 
+						Dada la buena recepción de sus alumnos y siempre con las ansias de innovar y mejorar el servicio, abren el Área de Salud, incorporando kinesiólogos, Nutricionistas y psicología deportiva, lo que hace evolucionar su nombre a <b>"Clinictraining"</b>, siendo la primera empresa de entrenamientos y salud deportiva a domicilio.</p> 
+						<p>Hoy somos 15 profesores multidisciplinarios del deporte, 10 profesionales de la salud y personal administrativo.</p>
 			        </div>
 		        </div>
 		        <div class="row">

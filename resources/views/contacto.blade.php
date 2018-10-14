@@ -75,12 +75,19 @@
           		<div class="col-md-5 col-md-push-1">
             		<h3 class="mt0">Contáctanos</h3>
             		<ul class="probootstrap-contact-info">
-		              	<li><i class="icon-mail"></i><span>contacto@clinictraining.cl</span></li>
+		              	<li><i class="icon-mail"></i><span> contacto@clinictraining.cl</span></li>
 		              	<li><i class="icon-phone2"></i><span>	+569 5396 2405 </span></li>
 		              	<li><i class="icon-phone2"></i><span> +569 8901 3029 </span></li>
             		</ul>
-            		<h3 class="mt0">Área de cobertura</h3>
- 					<p> Agregar mapa de comunas </p>
+            		<h3 class="mt0">Área de cobertura</h3>           			
+            		<p><b>Santiago Sector Oriente:</b> La Reina, Las Condes, Lo Barnechea, Ñuñoa, Peñalolen, Providencia y Vitacura. Pronto en Colina (sector Chicureo).</p>
+ 					<img style="border-radius: 2%; height: 100%; width: 100%;" src="img/mapa.jpg"> 					
+ 					<p><b>Próximamente en regiones</b></p>
+ 					<ul>
+ 						<li>Norte: La Serena / Coquimbo</li>
+ 						<li>Centro: Viña del Mar, Reñaca y Concón</li>
+ 						<li>Sur: Temuco</li>
+ 					</ul>
           		</div>
       		</div>
     	</section>

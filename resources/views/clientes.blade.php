@@ -18,6 +18,7 @@
 
   	<section>
   		<div class="container mt70 mb70">
+        <h2 class="mt0 mb60">Perfiles de personas que entrenamos</h2>
   			<div class="row">
   				<div class="col-sm">
   					<img src="img/icons/alto-icon.png">
@@ -33,7 +34,7 @@
   				</div>
   				<div class="col-sm">  					
   					<img src="img/icons/postparto-icon.png">
-  					<p>Post Parto</p>
+  					<p>Pre y Post Parto</p>
   				</div>
   			</div>
   			<div class="row">

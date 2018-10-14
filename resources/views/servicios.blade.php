@@ -19,7 +19,7 @@
   		<div class="container">
   			<ul class="nav nav-pills mb-3 justify-content-md-center select-btn flex-column flex-sm-row" id="myTab" role="tablist">
 			  	<li class="nav-item type-service" role="presentation">
-			    	<a class="nav-link flex-sm-fill text-sm-center" id="home-tab" data-toggle="tab" href="#program" role="tab" aria-controls="program" aria-selected="true">Programas de entrenamiento y salud</a>
+			    	<a class="nav-link flex-sm-fill text-sm-center" id="home-tab" data-toggle="tab" href="#program" role="tab" aria-controls="program" aria-selected="true">Planes de Entrenamiento Integral</a>
 			  	</li>
 			  	<li class="nav-item type-service" role="presentation">
 			    	<a class="nav-link flex-sm-fill text-sm-center" id="profile-tab" data-toggle="tab" href="#health" role="tab" aria-controls="health" aria-selected="false">Área salud</a>
@@ -35,16 +35,15 @@
 				<div class="tab-pane fade" id="program" role="tabpanel" aria-labelledby="program-tab">
 					<div class="row">
         				<div class="col-md-12 section-heading probootstrap-animate text-justify">
-          					<h2 class="mb30"> Programas de entrenamiento y salud </h2>
-          					<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          					<h2 class="mb30"> Planes de Entrenamiento Integral </h2>
+          					<p> <b>Personal Trainer: Entrenamiento Individual.</b></p>
+							<p> <b>Personal Grupal: Entrena en pareja o en familia.</b></p>
+							<p> Llevamos el gimnasio a tu casa, realizando un entrenamiento acorde a la persona, con resultados a corto y mediano plazo, de una manera personalizada y amena. Los entrenamientos son dinámicos y entretenidos, guiados por profesores especialistas en distintas disciplinas, con los que logramos mejores resultados para los objetivos propuestos por el alumno. A este grupo de profesionales se les suma un equipo de Kinesiólogos, Nutricionistas y Coaching deportivo, realizando evaluaciones de cada area, para lograr el complemento perfecto para un servicio integral a tu casa. </p>
+
+							<p><b>Disciplinas: Entrenamiento Funcional, Box, Pilates, Muay Thai, Cuerda de Suspensión, Yoga, Calistenia, Danza.</b></p>
         				</div>
         			</div>
-        			<div class="row">
+        			<!-- <div class="row">
         				<div class="col-md-4 d-flex flex-row align-items-center">
 							<img src="img/kinesiologia.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40">
 						</div>
@@ -119,18 +118,18 @@
           					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
           					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         				</div>
-        			</div>
+        			</div> -->
       			</div>
 				<div class="tab-pane fade" id="health" role="tabpanel" aria-labelledby="health-tab">
 					<div class="row">
         				<div class="col-md-12 section-heading probootstrap-animate text-justify">
-          					<h2 class="mb30"> Área salud </h2>
-          					<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          					<h2 class="mb30"> Área de salud </h2>
+          					<!-- <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
           					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
           					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
           					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
           					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> -->
         				</div>
         			</div>
 					<div class="row">
@@ -139,19 +138,22 @@
 						</div>
         				<div class="col-md-8 section-heading probootstrap-animate text-justify">
           					<h4 class="mb30"> Kinesiología deportiva</h4>
-          					<p>Equipo multidisciplinario enfocado en el bienestar de nuestros alumnos.
-							Nos preocupamos de forma personalizada e integral de la prevención y tratamiento de lesiones para lograr un reintegro deportivo óptimo y así mejorar la calidad y estilo de vida de nuestros deportistas.</p> 
+          					<p>Muchas veces las malas posturas y las sobre cargas laborales, con en el tiempo, llevan a lesiones musculoesqueléticas.
+							Es por esto, que tenemos un equipo con diferentes especialidades enfocado en el bienestar de nuestros alumnos y que complementan sus entrenamiento deportivos.</p>
+							<p>Nos preocupamos de forma personalizada e integral de la prevención y tratamiento de lesiones para lograr un reintegro deportivo óptimo y así mejorar la calidad y estilo de vida de nuestros deportistas.</p> 
 
-							<p>Servicios Kinesiológicos</p>
-							<ol>
+							<p><b>Servicios Kinésicos</b></p>
+							<ul>
 								<li>Evaluación kinésica</li>
 								<li>Reeducación postural</li>
-								<li>Fisioterapia</li>
+								<li>Kinesiología preventiva</li>
+								<li>Reintegro deportivo</li>
+								<li>Kinesiología geriátrica</li>
 								<li>Aplicación Ktape</li>
 								<li>Masoterapia descontracturante</li>
-								<li>Biosteopraxia</li>
-								<li>Fitswing</li>
-							</ol>
+								<li>Masoterapia reductiva</li>
+								<li>Drenaje linfático</li>
+							</ul>
         				</div>
         			</div>
         			<div class="row">
@@ -160,12 +162,15 @@
 						</div>
         				<div class="col-md-8 section-heading probootstrap-animate text-justify">
           					<h4 class="mb30"> Nutrición deportiva </h4>
-          					<p>Una buena nutrición es una de las CLAVES PARA EL ÉXITO tanto deportivo, como para llevar un estilo de vida saludable, sentirnos bien, con energía, prevenir enfermedades, etc.</p>
-							<p>Los nutrientes que obtenemos de los alimentos nos proveen de energía, nos ayudan a regular procesos metabólicos, estructurales, como nos sentimos anímicamente, nos influye en el rendimiento laboral, en la energía que tenemos para hacer nuestras actividades, en cómo está tu composición corporal, etc.</p>
-							<p>Una mala nutrición nos podría llevar a cualquier deficiencia nutricional y provocar una disminución tanto en la capacidad física como mental. Por ejemplo: La falta de hierro disminuye la capacidad del músculo para consumir oxígeno y así producir energía; O No consumir carbohidratos previo a una competencia influye directamente en el rendimiento que tengas; y así muchos ejemplos más.</p>
-							<p>Es por eso que nuestra orientación nutricional va enfocada a lograr un estilo de vida saludable a través de la alimentación, evitando una mala nutrición para obtener lo mejor de ti.</p>
-
-							<p class="font-weight-bold">POR ESO TE INVITAMOS A TENGAS UNA COMPLETA ORIENTACIÓN NUTRICIONAL CON NOSOTROS Y ASÍ PUEDAS SACAR TU MÁXIMO POTENCIAL A TRAVÉS DEL DEPORTE Y UNA BUENA ALIMENTACION!</p>
+          					<p>Una buena nutrición es una de las CLAVES PARA EL ÉXITO tanto deportivo, como para llevar un estilo de vida saludable, sentirnos bien, con energía y prevenir enfermedades. Es por esto que tenemos nutricionistas capacitados en diferentes áreas que ayudan a nuestros alumnos a lograr sus objetivos.</p>
+          					<p><b>Servicios Nutricionales</b></p>
+							<ul>
+								<li>Evaluación nutricional</li>
+								<li>Nutrición deportiva</li>
+								<li>Nutrición clínica</li>
+								<li>Clases de cocina saludable</li>
+								<li>Acompañamiento en compras</li>
+							</ul>
         				</div>
         				<div class="col-md-4 d-flex flex-row align-items-center">
 							<img src="img/nutricion-deportiva.jpg" alt="" class="img-responsive img-rounded probootstrap-animate mt40 d-none d-md-block">
@@ -177,25 +182,20 @@
 						</div>
         				<div class="col-md-8 section-heading probootstrap-animate text-justify">
           					<h4 class="mb30"> Psicología y coaching deportivo</h4>
-          					<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          					<p>Cuando le sumas el área de salud mental a tus servicios, los resultados son increíbles.</p>
+							<p>La experiencia nos ha hecho comprender que en muchos casos los aspectos psicológicos de un alumno, son la base principal para poder lograr y cumplir con los objetivos de este. Para eso hemos incorporado psicólogos deportivos que buscan orientar tanto al alumno como a los profesores y así lograr cambios reales en la vida de los alumnos.</p>
+							<p>En el caso del Coaching, nosotros lo ocupamos como una herramienta para el trabajo psicológico de algunos alumnos, motivando y haciendo que los alumnos comprendan sus dificultades y sepan como revertirlas.</p>
         				</div>
         			</div>
       			</div>
 				<div class="tab-pane fade" id="fitness" role="tabpanel" aria-labelledby="fitness-tab">
 	        		<div class="row">
         				<div class="col-md-12 section-heading probootstrap-animate text-justify">
-          					<h2 class="mb30"> Entrenamientos fitness </h2>
-          					<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          					<h2 class="mb30"> Entrenamiento fitness </h2>
+          					<h4>Personal Trainer Especialidades </h4>
+							<p>Servicio para los alumnos que deseen mejorar o entrenar sólo una disciplina.</p>
+
+							<p><i>Disciplinas: Entrenamiento Funcional, Box, Pilates, Muay Thai, Cuerda de Suspensión, Yoga, Calistenia, Danza Fit.</i></p>
         				</div>
         			</div>
         			<!-- <div class="row">
@@ -316,12 +316,31 @@
 	        		<div class="row">
         				<div class="col-md-12 section-heading probootstrap-animate text-justify">
           					<h2 class="mb30"> Entrenamientos deportivos </h2>
-          					<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-          					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-          					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-          					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-          					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          					<h4>Programas para deportistas de Alto Rendimiento</h4>
+							<p>Mejoramos el rendimiento de los atletas incorporando nuevas disciplinas en su entrenamiento. Las variables que manejamos para armar el plan de entrenamiento de cada deportista son:</p>
+							<ul>
+								<li>Deporte que practica.</li>
+								<li>Falencias que desea mejorar.</li>
+								<li>Necesidades y objetivos del deportista.</li>
+							</ul>
+							<p>El descanso y la alimentación son parte del plan de entrenamiento.</p>
+
+							<h4>Programas para niños</h4>
+							<ul>
+								<li>Expresión Corporal: Desarrollar diferentes habilidades motrices.</li>
+								<li>Entrenamiento para mejorar en distintos deportes como: Fútbol, Tenis, Patinaje, Hockey, Otros.</li>
+							</ul>
+							<h4>Clases de Natación</h4> 
+							<p>Dirigidas a bebés desde los 4 meses de edad, niños y jóvenes hasta 17 años.</p>
+
+							<p><b>Objetivos</b></p>
+							<ul>
+								<li>Que los niños aprendan a flotar de espalda y de frente.</li>
+								<li>Que aprendan a desplazarse pataleando croll y espalda.</li>
+								<li>Que aprendan a lanzarse de frente al agua y a sumergirse, entre otras cosas.</li>
+							</ul>
+							<p>También está dirigido a mejorar la técnica de los diferentes estilos de natación.</p>
+
         				</div>
         			</div>
         			<div class="row">
